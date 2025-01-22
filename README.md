@@ -190,12 +190,15 @@ Once you have the project set up and your environment variables configured, you 
 
 ---
 
-## 📝 License
+--- 
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
+---
 ## 📞 Contact
 
 Feel free to contact me at [omotundejunior@gmail.com](mailto:omotundejunior@gmail.com).
+----
