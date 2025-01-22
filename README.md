@@ -51,6 +51,7 @@ The project also integrates **AWS QuickSight** to visualize the data for better 
    - Weather data is stored in S3.
    - You can store images or other static content like weather icons in the same bucket.
 
+![s3](https://github.com/omotuno/AWS-Weather-Collection-Dashboard/blob/main/img/S3.png?raw=true)
 ---
 - **src/weather_dashboard.py**: Contains the main application logic and `WeatherDashboard` class.
 - **data/cities.json**: Holds a list of cities for which weather data is fetched.
