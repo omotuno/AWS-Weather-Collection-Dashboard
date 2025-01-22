@@ -40,6 +40,7 @@ The project also integrates **AWS QuickSight** to visualize the data for better 
 2. **AWS S3**:
    - Stores the fetched weather data in a designated S3 bucket.
    - Allows for easy retrieval and historical data tracking.
+   - 
 
 3. **Python Application**:
    - Fetches weather data from the OpenWeather API.
