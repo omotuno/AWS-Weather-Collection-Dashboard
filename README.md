@@ -12,7 +12,6 @@
 - [Code Explanation](#code-explanation)
 - [Common Issues and Solutions](#common-issues-and-solutions)
 - [Potential Future Improvements](#potential-future-improvements)
-- [How to Contribute](#how-to-contribute)
 - [License](#license)
 - [Contact](#contact)
 
@@ -43,13 +42,12 @@ The project also integrates **AWS QuickSight** to visualize the data for better 
    - Stores the fetched weather data in a designated S3 bucket.
    - Allows for easy retrieval and historical data tracking.
 
-3. **AWS QuickSight**:
-   - Used to visualize the weather data for better insights and decision-making.
-
-4. **Python Application**:
+3. **Python Application**:
    - Fetches weather data from the OpenWeather API.
    - Processes and stores the data in S3.
-   - Generates an HTML report and stores it in the S3 bucket.
+  
+4. **AWS QuickSight**:
+   - Used to visualize the weather data for better insights and decision-making.
 
 5. **S3 Bucket**:
    - Weather data is stored in S3, and HTML reports can also be stored for visualization.
@@ -196,27 +194,6 @@ Once you have the project set up and your environment variables configured, you 
 - **Create a web application** version with real-time weather updates.
 - **Implement geolocation** to automatically detect user cities.
 - **Add weather alerts** for customized notifications.
-
----
-
-## 🫱🏻‍🫲🏾 How to Contribute
-
-Contributions are welcome! Here's how you can contribute:
-
-1. **Fork the repository**.
-2. **Create a feature branch**:
-    ```bash
-    git checkout -b feature/AmazingFeature
-    ```
-3. **Commit your changes**:
-    ```bash
-    git commit -m 'Add AmazingFeature'
-    ```
-4. **Push to the branch**:
-    ```bash
-    git push origin feature/AmazingFeature
-    ```
-5. **Open a pull request** to merge your changes into the main branch.
 
 ---
 
