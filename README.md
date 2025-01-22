@@ -31,7 +31,7 @@ The project also integrates **AWS QuickSight** to visualize the data for better 
 
 ## 🏗️ Project Architecture Diagram
 
-![Project Architecture]("img/Archiecture Diagram.png")
+![Project Architecture](https://github.com/omotuno/AWS-Weather-Collection-Dashboard/blob/main/img/Archiecture%20Diagram.png)
 
 ### Architecture Breakdown:
 1. **OpenWeather API**:
