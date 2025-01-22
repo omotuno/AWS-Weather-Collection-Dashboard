@@ -80,7 +80,7 @@ Make sure you have the following setup:
 
 ---
 
-## 📘 Installation Process
+##  Installation Process
 
 ### Clone the repository:
 
@@ -117,7 +117,7 @@ aws configure
  Make sure your credentials are set in the ~/.aws/credentials file.
 
 
-## 🔋 Application Usage
+## Application Usage
 
 Once you have the project set up and your environment variables configured, you can start using the **Weather Dashboard**.
 
@@ -141,7 +141,6 @@ Once you have the project set up and your environment variables configured, you 
 
 3.	The application will fetch weather data for predefined cities, store it in your S3 bucket
 
-# 🌤️ AWS Weather Dashboard ☔️ (30 Days DevOps Challenge)
 
 ## 📝 Code Explanation
 
