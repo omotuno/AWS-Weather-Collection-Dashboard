@@ -3,7 +3,6 @@
 ## 📖 Table of Contents 📖
 - [Project Overview](#project-overview)
 - [Project Architecture Diagram](#project-architecture-diagram)
-- [Project Structure](#project-structure)
 - [Application Features](#application-features)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
@@ -64,10 +63,6 @@ The project also integrates **AWS QuickSight** to visualize the data for better 
 - Fetches real-time weather data for multiple cities
 - Displays temperature (°F), humidity, and various weather conditions
 - Automatically stores weather data in AWS S3 bucket
-- Timestamps data for historical tracking
-- Supports data visualization through **AWS QuickSight**
-- Allows users to store and visualize images (e.g., weather icons) in S3
-
 ---
 
 ## Getting Started
