@@ -1,4 +1,4 @@
-# 🌤️ AWS Weather Dashboard ☔️ - 30 Days DevOps Challenge Day 1
+# 🌤️ AWS Weather Collection System ☔️ - 30 Days DevOps Challenge Day 1
 
 ## 📖 Table of Contents 📖
 - [Project Overview](#project-overview)
@@ -46,11 +46,9 @@ The project also integrates **AWS QuickSight** to visualize the data for better 
    - Fetches weather data from the OpenWeather API.
    - Processes and stores the data in S3.
   
-4. **AWS QuickSight**:
-   - Used to visualize the weather data for better insights and decision-making.
 
-5. **S3 Bucket**:
-   - Weather data is stored in S3, and HTML reports can also be stored for visualization.
+4. **S3 Bucket**:
+   - Weather data is stored in S3.
    - You can store images or other static content like weather icons in the same bucket.
 
 ---
@@ -188,7 +186,7 @@ Once you have the project set up and your environment variables configured, you 
 ## Potential Future Improvements
 
 - **Implement Graphical User Interface (GUI)** for a more interactive user experience.
-- **Add historical data tracking and visualization** in AWS QuickSight.
+- **AWS QuickSight**: visualize the weather data for better insights and decision-making
 - **Integrate more weather APIs** for a broader range of weather conditions.
 - **Add user authentication** for personalized weather data tracking.
 - **Create a web application** version with real-time weather updates.
