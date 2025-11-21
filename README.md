@@ -1,4 +1,4 @@
-# 🌤️ AWS Weather Collection System ☔️ - 30 Days DevOps Challenge Day 1
+# 🌤️ AWS Weather Collection System ☔️ 
 
 ## 📖 Table of Contents 📖
 - [Project Overview](#project-overview)
